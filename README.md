@@ -1,2 +1,2 @@
 # git-github
-learning git
+This is the tutorial purpose.. learning git commands
